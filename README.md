@@ -1,5 +1,4 @@
 # EDTW
-GFDL-CM2P1 atmospheric model; Global warming experiment with/without enhanced deep-tropical warming
 
 To investigate the effect of EDTW on the Hadley expansion, we have conducted idealized warming experiments using the GFDL-AM2.1 atmosphere model. 
 The Control simulation is forced with climatological SSTs and sea-ice cover averaged from 1980 to 2005. 
